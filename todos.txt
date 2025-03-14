@@ -1,4 +1,3 @@
 Phoebe
 Always Love Phoebe
-help
-new
+deploy app

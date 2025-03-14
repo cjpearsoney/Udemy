@@ -5,8 +5,8 @@ import functions
 todos = functions.get_tados()
 
 def add_todo():
-    todo = st.session_state['new_todo']+"\n"
-    todos.append(todo )
+    todo = st.session_state['new_todo'].title()+"\n"
+    todos.append(todo)
     functions.write_tados(todos)
 
 st.title("My ToDo App")
