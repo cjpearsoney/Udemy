@@ -4,7 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e79c37-9448-4e29-8d20-52fb095dc22c" name="Changes" comment="created requirements doc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,20 +80,9 @@
       <option name="project" value="LOCAL" />
       <updated>1741962709734</updated>
     </task>
-    <task id="LOCAL-00002" summary="created requirements doc">
-      <option name="closed" value="true" />
-      <created>1741963954807</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1741963954807</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <MESSAGE value="created requirements doc" />
-    <option name="LAST_COMMIT_MESSAGE" value="created requirements doc" />
   </component>
 </project>
